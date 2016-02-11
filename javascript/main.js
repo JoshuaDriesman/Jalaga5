@@ -1,3 +1,4 @@
+// Copyright 2013 - 2015 Joshua Driesman
 // JavaScript Document
 function initiate() {
 	var elem = document.getElementById("canvas");
